@@ -64,4 +64,4 @@ Python · Bash · pwntools · scapy · exploit development · fuzzing · CI secu
 
 ---
 
-[LinkedIn](https://linkedin.com/in/dilnessa-aemro) · Addis Ababa, Ethiopia
+Addis Ababa, Ethiopia
