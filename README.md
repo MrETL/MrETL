@@ -1,4 +1,4 @@
-# Dilnessa Aemro Taye
+# Dilnessa Aemro
 
 Security researcher and AI/ML engineer at **INSA**, Addis Ababa. I work across two intersecting domains: offensive security (web, API, mobile penetration testing and AI red teaming) and machine learning engineering (model development, adversarial evaluation, and production ML systems).
 
